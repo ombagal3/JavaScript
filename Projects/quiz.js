@@ -3,6 +3,7 @@ const password_input = document.getElementById("password");
 const signin_button = document.getElementById("signin_button");
 
 
+
 const currentUser = {
     email : "Admin@gmail.com",
     password : "Admin@1234",
@@ -30,11 +31,12 @@ if(emailRegex.test(email) && passwordRegex.test(password)){
     }
     
 
-}else{
+} else{
         alert("invalid certical");
 }
 
 
 
 };
+
 signin_button.addEventListener("click", signInUser);
