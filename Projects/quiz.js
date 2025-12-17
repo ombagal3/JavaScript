@@ -39,6 +39,6 @@ if(emailRegex.test(email) && passwordRegex.test(password)){
 
 
 };
-
 signin_button.addEventListener("click", signInUser);
+
 
