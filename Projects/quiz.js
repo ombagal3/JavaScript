@@ -9,6 +9,7 @@ const currentUser = {
     password : "Admin@1234",
 
 }
+
 const signInUser = () => {
 
         const emailRegex = /^[a-zA-Z0-9._%+-]+@[a-zA-Z0-9.-]+\.[a-zA-Z]{2,}$/;
@@ -40,3 +41,4 @@ if(emailRegex.test(email) && passwordRegex.test(password)){
 };
 
 signin_button.addEventListener("click", signInUser);
+
