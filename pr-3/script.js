@@ -48,6 +48,8 @@
 //         return min;
 //     }
 
+
+
 // let result = minArray(arr);
 // document.writeln(result);
 
@@ -519,3 +521,4 @@
 // ];
 
 // console.log(totalQuantity(cart));
+
