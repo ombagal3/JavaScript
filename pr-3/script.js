@@ -11,6 +11,9 @@
 // }
 
 
+
+
+
 // let result = sumArray(numbers); // Function call karke result me sumArray ko  store kiya  
 // document.writeln(result);
 
@@ -514,4 +517,5 @@
 //     { item: "Laddu", quantity: 5 },
 //     { item: "Dove", quantity: 10 }
 // ];
+
 // console.log(totalQuantity(cart));
