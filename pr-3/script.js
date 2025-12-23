@@ -121,6 +121,8 @@
 
 // document.writeln(result);
 
+
+
 // 8.Write a function that takes an array and counts how many positive numbers 
 // are present.
 //    function findCountOfPositive(arr) {
@@ -524,6 +526,7 @@
 // ];
 
 // console.log(totalQuantity(cart));
+
 
 
 
