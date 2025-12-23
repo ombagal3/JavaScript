@@ -81,6 +81,8 @@
 
 //???????? douts.
 
+
+
 // 6.Write a function that takes an array and returns only even numbers in a new array.
 // let arr=[10,20,2,5,60];
 
@@ -520,6 +522,7 @@
 // ];
 
 // console.log(totalQuantity(cart));
+
 
 
 
