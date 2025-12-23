@@ -32,6 +32,8 @@
 // let result = maxArray(numbers);
 // document.writeln(result);
 
+
+
 // 3.Write a function that takes an array and returns the minimum element.
     
 //    let arr=[10,20,2,50,60];
@@ -518,5 +520,6 @@
 // ];
 
 // console.log(totalQuantity(cart));
+
 
 
