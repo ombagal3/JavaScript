@@ -11,9 +11,6 @@
 // }
 
 
-
-
-
 // let result = sumArray(numbers); // Function call karke result me sumArray ko  store kiya  
 // document.writeln(result);
 
@@ -521,4 +518,5 @@
 // ];
 
 // console.log(totalQuantity(cart));
+
 
