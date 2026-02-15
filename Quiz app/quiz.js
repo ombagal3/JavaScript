@@ -109,7 +109,6 @@ timer_id = setInterval(() => {
   }, 1000); 
 };
 
-
 const nextQuestion = () => {
   rai_option_a.checked = false;
   rai_option_b.checked = false;
@@ -201,4 +200,5 @@ if(currentQuestionIndex < questionBank.length)
         alert("your score is " + score + "/10");
  next_button.href = "result.html";
   }
+
 });
