@@ -12,7 +12,6 @@ const rai_option_b = document.getElementById("rai-option-b");
 const rai_option_c = document.getElementById("rai-option-c");
 const rai_option_d = document.getElementById("rai-option-d");
 
-
 let timer_id = 0;
 let currentQuestionIndex = 0;
 let score = 0;
@@ -202,3 +201,4 @@ if(currentQuestionIndex < questionBank.length)
   }
 
 });
+
