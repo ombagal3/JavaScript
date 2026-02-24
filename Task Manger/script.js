@@ -23,8 +23,6 @@ let updateIndex = 0;
 ];
 
 
-
-
 const addNote = () => {
     const title = titleInput.value;
     const description = descriptionInput.value;
@@ -108,6 +106,7 @@ const handleAdd = () => {
 }
 
 add_note_button.addEventListener("click", handleAdd);
+
 
 
 
