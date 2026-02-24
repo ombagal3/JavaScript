@@ -49,9 +49,7 @@ const displayNotes = () => {
     notes = JSON.parse(data);
   }
 
-
-
-  notes.forEach((note,i) => {
+notes.forEach((note,i) => {
     const div = document.createElement("div");
     div.className = "card w-50 m-2";
     div.innerHTML = `
@@ -106,6 +104,7 @@ const handleAdd = () => {
 }
 
 add_note_button.addEventListener("click", handleAdd);
+
 
 
 
