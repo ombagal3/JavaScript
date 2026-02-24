@@ -1,7 +1,5 @@
 
 
-//CRUD Operation create read update delete....
-
 const note_container = document.getElementById("note-container");
 const add_note_button = document.getElementById("add-note-button");
 const titleInput = document.getElementById("title")
@@ -110,6 +108,7 @@ const handleAdd = () => {
 }
 
 add_note_button.addEventListener("click", handleAdd);
+
 
 
 
