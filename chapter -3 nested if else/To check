@@ -1,7 +1,75 @@
-let number = 25;
+// WAP to Check Number is Even or Odd
+
+let num = 25;
 
 if (number % 2 === 0) {
     console.log("Number is Even");
 } else {
     console.log("Number is Odd");
 }
+
+
+
+
+//WAP to Check Number is Divisible by 7 or Not
+
+let num = 49;
+
+if (num % 7 === 0) {
+    console.log("Number is divisible by 7");
+} else {
+    console.log("Number is NOT divisible by 7");
+}
+
+
+// wap to find max/min from 5 numbers using ladder if else.
+
+let a = 10;
+let b = 25;
+let c = 15;
+let d = 40;
+let e = 30;
+
+let max;
+
+if (a >= b && a >= c && a >= d && a >= e) {
+    max = a;
+}
+else if (b >= a && b >= c && b >= d && b >= e) {
+    max = b;
+}
+else if (c >= a && c >= b && c >= d && c >= e) {
+    max = c;
+}
+else if (d >= a && d >= b && d >= c && d >= e) {
+    max = d;
+}
+else {
+    max = e;
+}
+
+console.log("Maximum number is:", max);
+
+
+
+// wap to check user is eligible or not using ternary operator
+
+let age = 20;
+let result = (age >= 18) 
+    ? " Eligible for Vote" 
+    : " Not Eligible for Vote";
+
+console.log(result);
+
+
+//wap to check number is neutral, negative and positive using ternary operator.
+
+let num = -5;
+
+let result = (num > 0) 
+    ? "num is Positive" 
+    : (num < 0) 
+        ? "num is Negative" 
+        : "num is Neutral (Zero)";
+
+console.log(result);
