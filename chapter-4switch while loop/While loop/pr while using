@@ -17,3 +17,51 @@ while(i <= 50){
     console.log(i)
     i++;
 }
+
+
+wap to print only even numbers using while loop
+
+let i = 1;
+while(i <= 100){
+    if(i  % 2 == 0){
+console.log(i);
+}
+i++;
+}
+
+
+
+
+wap to print only odd numbers using while loop
+
+let i = 1;
+
+while(i <= 50){
+    if(i % 2 != 0){
+        console.log(i);
+    }
+    i++;
+}
+
+
+wap to 111 to 100
+
+let i = 111;
+while(i >= 100){
+console.log(i)
+i--;
+}
+
+
+wap to print only leap years
+
+let year = 2000;
+
+while(year <= 3000){
+
+    if((year % 4 == 0 && year % 100 != 0) || (year % 400 == 0)){
+        console.log(year);
+    }
+
+    year++;
+}
