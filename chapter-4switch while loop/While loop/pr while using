@@ -1,0 +1,19 @@
+ wap to n to 1 using
+
+let n = 49;
+let i=1
+while(n >= i)
+{
+    console.log(n)
+    n--;
+}
+
+
+wap 1 to n using
+
+let i = 1;
+let n =50;
+while(i <= 50){
+    console.log(i)
+    i++;
+}
