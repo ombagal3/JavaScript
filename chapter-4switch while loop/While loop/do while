@@ -1,0 +1,73 @@
+// Print numbers 1 to n
+ // do while
+
+// let n = 10;
+// let i = 1;
+
+// do{
+//   console.log(i);
+//   i++;
+// }while(i <= n);
+
+
+// Print numbers n to 1
+
+// let n = 10;
+// let i = n;
+
+// do{
+//   console.log(i);
+//   i--;
+// }while(i >= 1);
+
+
+// Print even numbers 1 to n
+
+//   let n = 10;
+// let i = 1;
+
+// do{
+//   if(i % 2 === 0){
+//     console.log(i);
+//   }
+//   i++;
+// }while(i <= n);
+
+
+// Print odd numbers n to 1
+
+//   let n = 10;
+// let i = n;
+
+// do{
+//   if(i % 2 !== 0){
+//     console.log(i);
+//   }
+//   i--;
+// }while(i >= 1);
+
+
+
+// Print leap years between start and end
+//   let start = 2000;
+// let end = 2024;
+
+// do{
+//   if((start % 4 === 0 && start % 100 !== 0) || start % 400 === 0){
+//     console.log(start);
+//   }
+//   start++;
+// }while(start <= end);
+
+
+// Sum of numbers 1 to n
+//   let n = 10;
+// let i = 1;
+// let sum = 0;
+
+// do{
+//   sum += i;
+//   i++;
+// }while(i <= n);
+
+// console.log(sum);
