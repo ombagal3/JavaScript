@@ -1,4 +1,6 @@
 // // ================== DOM ELEMENTS ==================
+
+
 // const container = document.getElementById("container");
 // const cartContainer = document.getElementById("cart-container");
 // const totalPrice = document.getElementById("total-price");
