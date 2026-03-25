@@ -1,0 +1,44 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Liked Quotes</title>
+  <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.8/dist/css/bootstrap.min.css" rel="stylesheet">
+</head>
+
+<body style="background:#0d0d0d; color:white;">
+
+  <div class="container py-5">
+    <h2 class="text-center mb-5">Liked Quotes</h2>
+
+    <div id="liked-container" class="row g-4"></div>
+  </div>
+
+<script>
+const container = document.getElementById("liked-container");
+
+let likedQuotes = JSON.parse(localStorage.getItem("like-cart")) || [];
+
+if (likedQuotes.length === 0) {
+  container.innerHTML = "<p class='text-center'>No liked quotes </p>";
+} else {
+  likedQuotes.forEach(q => {
+    container.innerHTML += `
+      <div class="col-md-4">
+        <div class="card p-3" style="
+          background:#1a1a1a;
+          border-radius:15px;
+          box-shadow:0 10px 20px #000;
+          color:#eee;
+        ">
+          <p style="font-size:18px;">"${q.quote}"</p>
+          <p style="color:#888;">— ${q.author}</p>
+        </div>
+      </div>
+    `;
+  });
+}
+</script>
+
+</body>
+</html>
