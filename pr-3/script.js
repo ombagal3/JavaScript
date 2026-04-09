@@ -54,6 +54,7 @@
 
 
 
+
 // 4.Write a function that takes an array and returns the average of all numbers.
 // let arr=[10,20,2,50,60];
 // let sum=0;
