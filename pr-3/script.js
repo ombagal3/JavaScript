@@ -65,6 +65,7 @@
 //     return avr;
 // }
 // let result = sumArray(arr);
+
 // document.writeln(result);
 
 // 5.Write a function that takes an array and returns a new array in reversed order.let arr = [10, 20, 2, 50, 60];
