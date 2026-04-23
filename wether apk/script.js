@@ -8,7 +8,6 @@
  *  - Weather ke hisaab se image & background change hota hai
  ****************************************************/
 
-
 /* ================= HTML ELEMENTS KO PAKADNA =================
    document.getElementById ka matlab:
    HTML me jo element ka id diya hai,
