@@ -13,7 +13,6 @@
    HTML me jo element ka id diya hai,
    usko JavaScript me use karna
 */
-
 // User jo city likhega
 const cityInput = document.getElementById("city-input");
 
