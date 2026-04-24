@@ -5,7 +5,7 @@ const quotes = [
     { "id": 4, "quote": "Happiness depends upon ourselves.", "author": "Aristotle" },
     { "id": 5, "quote": "Turn your wounds into wisdom.", "author": "Oprah Winfrey" },
 
-    { "id": 6, "quote": "The purpose of our lives is to be happy.", "author": "Dalai Lama" },
+   { "id": 6, "quote": "The purpose of our lives is to be happy.", "author": "Dalai Lama" },
     { "id": 7, "quote": "Life is what happens when you're busy making other plans.", "author": "John Lennon" },
     { "id": 8, "quote": "Get busy living or get busy dying.", "author": "Stephen King" },
     { "id": 9, "quote": "You only live once, but if you do it right, once is enough.", "author": "Mae West" },
