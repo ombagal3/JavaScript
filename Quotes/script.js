@@ -36,9 +36,7 @@ const quotes = [
     { "id": 30, "quote": "Do one thing every day that scares you.", "author": "Eleanor Roosevelt" }
   ];
 
-
-
-  const quoteName = document.getElementById("quote-name")
+ const quoteName = document.getElementById("quote-name")
   const authorName = document.getElementById("author-name")
 const Carts = document.getElementById("cards")
 
