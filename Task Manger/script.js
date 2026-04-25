@@ -8,7 +8,8 @@ let isUpdate = false;
 let updateIndex = 0;
 
 
- let notes = [
+
+let notes = [
 //   {
 //     title: "India Tech Today 2025",
 //     description: "Lorem ipsum doler sitm amet consecture adisicing elit."
