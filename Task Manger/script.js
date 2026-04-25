@@ -7,6 +7,7 @@ const descriptionInput = document.getElementById("description")
 let isUpdate = false; 
 let updateIndex = 0;
 
+
  let notes = [
 //   {
 //     title: "India Tech Today 2025",
