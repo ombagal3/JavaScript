@@ -35,8 +35,6 @@ const quotes = [
     { "id": 29, "quote": "Stay hungry, stay foolish.", "author": "Steve Jobs" },
     { "id": 30, "quote": "Do one thing every day that scares you.", "author": "Eleanor Roosevelt" }
   ];
-
-
 const quoteName = document.getElementById("quote-name")
   const authorName = document.getElementById("author-name")
 const Carts = document.getElementById("cards")
