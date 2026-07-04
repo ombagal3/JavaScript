@@ -27,7 +27,8 @@ const temp = document.getElementById("temp");
 // Wind speed dikhane ke liye
 const wheter_speed = document.getElementById("wheter-speed");
 
-// Humidity (chances) dikhane ke liye
+// Humidity (chances) dikhane ke liye 
+
 const chances = document.getElementById("chances");
 
 // Weather image (sun / rain / snow etc.)
