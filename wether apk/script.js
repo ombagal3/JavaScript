@@ -42,6 +42,7 @@ const todayBox = document.getElementById("today-box");
 // Search button
 const search_btn = document.getElementById("search-btn");
 
+
 // Poora app card (background change karne ke liye)
 const app = document.getElementById("app");
 
