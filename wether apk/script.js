@@ -10,9 +10,9 @@
 /* ================= HTML ELEMENTS KO PAKADNA =================
    document.getElementById ka matlab:
    HTML me jo element ka id diya hai,
-   usko JavaScript me use karna
+   usko JavaScript me use karna 
 */
-// User jo city likhega
+// User jo city likhega 
 const cityInput = document.getElementById("city-input");
 
 // City ka naam screen pe dikhane ke liye
