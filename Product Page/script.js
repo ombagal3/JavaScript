@@ -1,7 +1,7 @@
 const container = document.getElementById("container");
 const cartContainer = document.getElementById("cart-container");
 const totalPrice = document.getElementById("total-price");
-let cartList = JSON.parse(localStorage.getItem("cart")) || [];
+let cartList = JSON.parse(localStorage.getItem("cart")) || []; 
 
 let qty = 1;
 
