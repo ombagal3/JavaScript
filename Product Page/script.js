@@ -5,7 +5,7 @@ let cartList = JSON.parse(localStorage.getItem("cart")) || [];
 
 let qty = 1;
 
-cartList = cartList.map((cart) => {
+cartList = cartList.map((cart) => { 
   return {...cart, qty: 1};
 }); 
 
