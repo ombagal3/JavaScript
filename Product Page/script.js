@@ -7,7 +7,7 @@ let qty = 1;
 
 cartList = cartList.map((cart) => {
   return {...cart, qty: 1};
-});
+}); 
 
 const fetchProducts = () => {
     fetch("https://dummyjson.com/products")
