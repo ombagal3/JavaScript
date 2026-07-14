@@ -1,7 +1,7 @@
 const input = document .getElementById('input');
 const button = document .getElementById('btn');
 const p1 = document .getElementById('p1');
-const output = document .getElementsByClassName('output'); 
+const output = document .getElementsByClassName('output');  
  
 button.addEventListener("click", () => {  
     
