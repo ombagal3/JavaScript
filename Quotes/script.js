@@ -17,6 +17,7 @@ const quotes = [
     { "id": 14, "quote": "That which does not kill us makes us stronger.", "author": "Friedrich Nietzsche" },
     { "id": 15, "quote": "Everything you can imagine is real.", "author": "Pablo Picasso" },
 
+    
     { "id": 16, "quote": "Simplicity is the ultimate sophistication.", "author": "Leonardo da Vinci" },
     { "id": 17, "quote": "Whatever you are, be a good one.", "author": "Abraham Lincoln" },
     { "id": 18, "quote": "If you tell the truth, you don't have to remember anything.", "author": "Mark Twain" },
