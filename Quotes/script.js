@@ -25,7 +25,8 @@ const quotes = [
 
     { "id": 21, "quote": "Be the change that you wish to see in the world.", "author": "Mahatma Gandhi" },
     { "id": 22, "quote": "If opportunity doesn't knock, build a door.", "author": "Milton Berle" },
-    { "id": 23, "quote": "Dream big and dare to fail.", "author": "Norman Vaughan" },
+    
+   { "id": 23, "quote": "Dream big and dare to fail.", "author": "Norman Vaughan" },
     { "id": 24, "quote": "Act as if what you do makes a difference. It does.", "author": "William James" },
     { "id": 25, "quote": "Success is not final, failure is not fatal.", "author": "Winston Churchill" },
 
