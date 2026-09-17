@@ -10,7 +10,7 @@ body{
     overflow-y:scroll;
     height: 70%;
 }
-.card {
+ .card {
   background: linear-gradient(135deg, #667eea, #764ba2);
   color: #fff;
   border: none;
