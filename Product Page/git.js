@@ -55,6 +55,8 @@
 // };
 
 // // ================== ADD TO CART ==================
+
+
 // const addToCart = (product) => {
 //   cartList.push(product);
 //   localStorage.setItem("cart", JSON.stringify(cartList));
