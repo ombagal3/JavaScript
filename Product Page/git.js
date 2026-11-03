@@ -15,6 +15,7 @@
 // };
 
 // // ================== DISPLAY PRODUCTS ==================
+
 // const displayProducts = (products) => {
 //   products.forEach((product) => {
 //     const div = document.createElement("div");
