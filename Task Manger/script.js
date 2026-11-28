@@ -27,6 +27,7 @@ let notes = [
 ];
 
 
+
 const addNote = () => {
     const title = titleInput.value;
     const description = descriptionInput.value;
